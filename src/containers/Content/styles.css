@@ -1,0 +1,17 @@
+.content {
+  display: flex;
+  padding: 5em;
+  transform: translateY(-50%);
+  z-index: 2;
+}
+
+.content h1{
+  font-size: 80px;
+  margin: 10px 0 30px;
+  line-height: 80px;
+}
+
+.content h3{
+  font-size: 40px;
+  margin: 10px;
+}

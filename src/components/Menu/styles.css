@@ -1,0 +1,6 @@
+.menu {
+  display: block;
+  width: 50%;
+  margin:40px auto 0;
+  cursor: pointer;
+}
